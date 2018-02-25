@@ -36,4 +36,4 @@
 *.off
 *.jpg
 /Release/*
-
+/lighting/Release/*
